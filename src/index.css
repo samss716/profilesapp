@@ -29,9 +29,14 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
-
+.title{
+  display:flex;
+}
 h1 {
   font-size: 3.2em;
+  justify-content: center;
+  align-items:center;
+  display:flex;
   line-height: 1.1;
 }
 
